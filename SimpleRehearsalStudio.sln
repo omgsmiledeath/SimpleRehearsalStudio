@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RehearsalLib", "RehearsalLib\RehearsalLib.csproj", "{F3AD5BDA-62CE-45CF-9800-C22ECA6DC167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RehearsalWeb", "RehearsalWeb\RehearsalWeb.csproj", "{232B2E0F-36A5-451B-A9FB-C132624B8AF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F3AD5BDA-62CE-45CF-9800-C22ECA6DC167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AD5BDA-62CE-45CF-9800-C22ECA6DC167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AD5BDA-62CE-45CF-9800-C22ECA6DC167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232B2E0F-36A5-451B-A9FB-C132624B8AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232B2E0F-36A5-451B-A9FB-C132624B8AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232B2E0F-36A5-451B-A9FB-C132624B8AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232B2E0F-36A5-451B-A9FB-C132624B8AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
