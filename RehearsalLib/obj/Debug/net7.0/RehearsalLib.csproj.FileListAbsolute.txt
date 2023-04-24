@@ -1,0 +1,14 @@
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/bin/Debug/net7.0/RehearsalLib.deps.json
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/bin/Debug/net7.0/RehearsalLib.runtimeconfig.json
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/bin/Debug/net7.0/RehearsalLib.dll
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/bin/Debug/net7.0/RehearsalLib.pdb
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.csproj.AssemblyReference.cache
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.AssemblyInfoInputs.cache
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.AssemblyInfo.cs
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.csproj.CoreCompileInputs.cache
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.dll
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/refint/RehearsalLib.dll
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.pdb
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/RehearsalLib.genruntimeconfig.cache
+/home/keerah8/Projects/SimpleRehearsalStudio/RehearsalLib/obj/Debug/net7.0/ref/RehearsalLib.dll
