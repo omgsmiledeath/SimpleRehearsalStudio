@@ -29,6 +29,9 @@ public class SqliteRehearsalBase : DbContext, IRehearsalBase
     {
         return Entries.ToList();
     }
+    public IEnumerable<Client> GetClients(){
+        return Clients.ToList();
+    }
     public async void AddClient(Client newClient){
         await Clients.AddAsync(newClient);
     }
