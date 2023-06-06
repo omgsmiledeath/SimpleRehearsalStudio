@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj": {}
+    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj": {
+    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj",
-        "projectName": "RehearsalLib",
-        "projectPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj",
+        "projectUniqueName": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj",
+        "projectName": "AspNetRehearsal",
+        "projectPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj",
         "packagesPath": "C:\\Users\\Keerah8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\obj\\",
+        "outputPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,18 +44,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -67,6 +56,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
