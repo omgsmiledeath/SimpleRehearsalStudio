@@ -6,6 +6,7 @@ namespace RehearsalLib.Entities;
 
 public class Entry : IEntry
 {
+
     public int Id {get;set;}
     public string AdditionMessage { get; set; }
     public bool IsCymbalsRequired { get; set; }

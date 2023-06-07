@@ -4,10 +4,18 @@
     <ProjectReference Include="..\RehearsalLib\RehearsalLib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Views\Studio\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Studio\" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
 </Project>
