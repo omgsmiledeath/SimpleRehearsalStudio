@@ -15,7 +15,7 @@ namespace AspNetRehearsal.Controllers
 
         public StudioController(ILogger<StudioController> logger)
         {
-            _logger = logger;
+            
         }
 
         public IActionResult Index()
