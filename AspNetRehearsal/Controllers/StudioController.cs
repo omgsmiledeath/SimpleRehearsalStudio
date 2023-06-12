@@ -8,12 +8,12 @@ using Microsoft.Extensions.Logging;
 
 namespace AspNetRehearsal.Controllers
 {
-    [Route("[controller]")]
+    
     public class StudioController : Controller
     {
 
 
-        public StudioController(ILogger<StudioController> logger)
+        public StudioController()
         {
             
         }
