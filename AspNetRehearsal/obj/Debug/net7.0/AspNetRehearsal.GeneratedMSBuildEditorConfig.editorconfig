@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNetRehearsal
 build_property.RootNamespace = AspNetRehearsal
-build_property.ProjectDir = C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\AspNetRehearsal\
+build_property.ProjectDir = c:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\AspNetRehearsal\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\AspNetRehearsal
+build_property.MSBuildProjectDirectory = c:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\AspNetRehearsal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Keerah8/Projects/SimpleStudio/SimpleRehearsalStudio/AspNetRehearsal/Views/Studio/Index.cshtml]
+[c:/Users/Keerah8/Projects/SimpleStudio/SimpleRehearsalStudio/AspNetRehearsal/Views/Studio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

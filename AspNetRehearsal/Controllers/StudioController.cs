@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+
 
 namespace AspNetRehearsal.Controllers
 {
@@ -13,10 +13,7 @@ namespace AspNetRehearsal.Controllers
     {
 
 
-        public StudioController()
-        {
-            
-        }
+        public StudioController(){}
 
         public IActionResult Index()
         {
