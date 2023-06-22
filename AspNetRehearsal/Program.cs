@@ -1,6 +1,10 @@
+using AspNetRehearsal.Middleware;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
+app.UseMiddleware<RehearsalListMiddleware>();
+app.UseMiddleware<TestMiddleware>();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Studio}/{action=Index}/{id?}",
