@@ -1,34 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/AspNetRehearsal.csproj": {}
+    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj": {}
   },
   "projects": {
-    "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/AspNetRehearsal.csproj": {
+    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/AspNetRehearsal.csproj",
+        "projectUniqueName": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj",
         "projectName": "AspNetRehearsal",
-        "projectPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/AspNetRehearsal.csproj",
-        "packagesPath": "/Users/kseniabelaevskaa/.nuget/packages/",
-        "outputPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/obj/",
+        "projectPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj",
+        "packagesPath": "C:\\Users\\Keerah8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\AspNetRehearsal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/kseniabelaevskaa/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Keerah8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj": {
-                "projectPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj"
+              "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj": {
+                "projectPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj"
               }
             }
           }
@@ -61,27 +67,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj": {
+    "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj",
+        "projectUniqueName": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj",
         "projectName": "RehearsalLib",
-        "projectPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj",
-        "packagesPath": "/Users/kseniabelaevskaa/.nuget/packages/",
-        "outputPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/obj/",
+        "projectPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj",
+        "packagesPath": "C:\\Users\\Keerah8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keerah8\\Projects\\SimpleStudio\\SimpleRehearsalStudio\\RehearsalLib\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/kseniabelaevskaa/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Keerah8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -127,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

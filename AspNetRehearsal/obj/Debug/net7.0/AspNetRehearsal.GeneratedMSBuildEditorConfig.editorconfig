@@ -9,13 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNetRehearsal
 build_property.RootNamespace = AspNetRehearsal
-build_property.ProjectDir = /Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/
+build_property.ProjectDir = C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\AspNetRehearsal\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal
+build_property.MSBuildProjectDirectory = C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\AspNetRehearsal
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Studio/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGlvL0luZGV4LmNzaHRtbA==
+[C:/Users/Keerah8/Projects/SimpleStudio/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Keerah8/Projects/SimpleStudio/SimpleRehearsalStudio/AspNetRehearsal/Views/Studio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Keerah8/Projects/SimpleStudio/SimpleRehearsalStudio/AspNetRehearsal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Keerah8/Projects/SimpleStudio/SimpleRehearsalStudio/AspNetRehearsal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

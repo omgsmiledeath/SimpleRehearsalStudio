@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/AspNetRehearsal.props" />
+  <Import Project="..\build\AspNetRehearsal.props" />
 </Project>
