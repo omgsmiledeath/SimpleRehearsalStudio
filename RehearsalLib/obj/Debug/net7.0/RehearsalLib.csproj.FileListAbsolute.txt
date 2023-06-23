@@ -54,3 +54,17 @@ C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\RehearsalLib\obj\De
 C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.pdb
 C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.genruntimeconfig.cache
 C:\Users\Keerah8\Projects\SimpleStudio\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\ref\RehearsalLib.dll
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\bin\Debug\net7.0\RehearsalLib.deps.json
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\bin\Debug\net7.0\RehearsalLib.runtimeconfig.json
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\bin\Debug\net7.0\RehearsalLib.dll
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\bin\Debug\net7.0\RehearsalLib.pdb
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.csproj.AssemblyReference.cache
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.AssemblyInfoInputs.cache
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.AssemblyInfo.cs
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.csproj.CoreCompileInputs.cache
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.dll
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\refint\RehearsalLib.dll
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.pdb
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\RehearsalLib.genruntimeconfig.cache
+F:\C#\My\SimpleRehearsalStudio\RehearsalLib\obj\Debug\net7.0\ref\RehearsalLib.dll

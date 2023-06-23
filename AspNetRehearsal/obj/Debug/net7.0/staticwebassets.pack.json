@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.green.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\about_img.jpg",
+      "PackagePath": "staticwebassets\\images\\about_img.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\bbnner.png",
+      "PackagePath": "staticwebassets\\images\\bbnner.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\footer.jpg",
+      "PackagePath": "staticwebassets\\images\\footer.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\icon_right.png",
+      "PackagePath": "staticwebassets\\images\\icon_right.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\menu_btn.png",
+      "PackagePath": "staticwebassets\\images\\menu_btn.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\mics_img1.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\mics_img2.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\mics_img3.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img4.jpg",
+      "PackagePath": "staticwebassets\\images\\mics_img4.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img5.jpg",
+      "PackagePath": "staticwebassets\\images\\mics_img5.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img6.jpg",
+      "PackagePath": "staticwebassets\\images\\mics_img6.jpg"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\right_side.png",
+      "PackagePath": "staticwebassets\\images\\right_side.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\service1.png",
+      "PackagePath": "staticwebassets\\images\\service1.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\service2.png",
+      "PackagePath": "staticwebassets\\images\\service2.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\service3.png",
+      "PackagePath": "staticwebassets\\images\\service3.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\test.png",
+      "PackagePath": "staticwebassets\\images\\test.png"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\scripts.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AspNetRehearsal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AspNetRehearsal.props",
+      "PackagePath": "build\\AspNetRehearsal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetRehearsal.props",
+      "PackagePath": "buildMultiTargeting\\AspNetRehearsal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AspNetRehearsal.props",
+      "PackagePath": "buildTransitive\\AspNetRehearsal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
