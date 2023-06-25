@@ -10314,43 +10314,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Holiday\\.nuget\\packages\\": {},
-    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/kseniabelaevskaa/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj",
+      "projectUniqueName": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/AspNetRehearsal.csproj",
       "projectName": "AspNetRehearsal",
-      "projectPath": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\AspNetRehearsal.csproj",
-      "packagesPath": "C:\\Users\\Holiday\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\obj\\",
+      "projectPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/AspNetRehearsal.csproj",
+      "packagesPath": "/Users/kseniabelaevskaa/.nuget/packages/",
+      "outputPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Holiday\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/kseniabelaevskaa/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\C#\\My\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj": {
-              "projectPath": "F:\\C#\\My\\SimpleRehearsalStudio\\RehearsalLib\\RehearsalLib.csproj"
+            "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj": {
+              "projectPath": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/RehearsalLib/RehearsalLib.csproj"
             }
           }
         }
@@ -10397,7 +10387,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B+kHujcnxs94LDXvJjwSNjTJLQQnzPQdgu/KqAP3Fo8=",
+  "Hash": "cpg7+xczc2/6cwuBBAbaIVhdWvM3XYSe/znYTaVUItY=",
   "Source": "AspNetRehearsal",
   "BasePath": "_content/AspNetRehearsal",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "AspNetRehearsal\\wwwroot",
+      "Name": "AspNetRehearsal/wwwroot",
       "Source": "AspNetRehearsal",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\.DS_Store",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/.DS_Store",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -31,81 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
+      "OriginalItemSpec": "wwwroot/css/.DS_Store"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-grid.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.css.map",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.min.css",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap.min.css.map",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.css",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -116,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-grid.css.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -133,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-grid.min.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -150,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-grid.min.css.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -167,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-reboot.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -184,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-reboot.css.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -201,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-reboot.min.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -218,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap-reboot.min.css.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -235,13 +167,81 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.css"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap.css.map",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.css.map"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap.min.css",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/bootstrap.min.css.map",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/font-awesome.min.css",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
+      "OriginalItemSpec": "wwwroot/css/font-awesome.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/jquery.mCustomScrollbar.min.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/jquery.mCustomScrollbar.min.css",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\jquery.mCustomScrollbar.min.css"
+      "OriginalItemSpec": "wwwroot/css/jquery.mCustomScrollbar.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\meanmenu.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/meanmenu.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/meanmenu.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\meanmenu.css"
+      "OriginalItemSpec": "wwwroot/css/meanmenu.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.carousel.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/owl.carousel.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/owl.carousel.css",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl.carousel.css"
+      "OriginalItemSpec": "wwwroot/css/owl.carousel.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/owl.carousel.min.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
+      "OriginalItemSpec": "wwwroot/css/owl.carousel.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.default.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/owl.theme.default.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/owl.theme.default.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl.theme.default.css"
+      "OriginalItemSpec": "wwwroot/css/owl.theme.default.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.default.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/owl.theme.default.min.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl.theme.default.min.css"
+      "OriginalItemSpec": "wwwroot/css/owl.theme.default.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.green.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/owl.theme.green.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/owl.theme.green.css",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl.theme.green.css"
+      "OriginalItemSpec": "wwwroot/css/owl.theme.green.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\owl.theme.green.min.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/owl.theme.green.min.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl.theme.green.min.css"
+      "OriginalItemSpec": "wwwroot/css/owl.theme.green.min.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\responsive.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/responsive.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+      "OriginalItemSpec": "wwwroot/css/responsive.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\css\\style.css",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/css/style.css",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -422,30 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
+      "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/fontawesome-webfont.eot",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "fonts/FontAwesome.otf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.eot",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -456,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
+      "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont.eot"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/fontawesome-webfont.svg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -473,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
+      "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont.svg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/fontawesome-webfont.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -490,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/fontawesome-webfont.woff",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -507,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
+      "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont.woff"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/fontawesome-webfont.woff2",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -524,13 +507,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/FontAwesome.otf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "fonts/FontAwesome.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/fonts/FontAwesome.otf"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/IcoMoon-Free.ttf",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/IcoMoon-Free.ttf",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\IcoMoon-Free.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/IcoMoon-Free.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Black.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Black.ttf",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Black.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Black.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-BlackItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-BlackItalic.ttf",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-BlackItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-BlackItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Bold.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Bold.ttf",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Bold.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Bold.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-BoldItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-BoldItalic.ttf",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-BoldItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-BoldItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-ExtraBold.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-ExtraBold.ttf",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraBold.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-ExtraBold.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-ExtraBoldItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-ExtraLight.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-ExtraLight.ttf",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraLight.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-ExtraLight.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-ExtraLightItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Italic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Italic.ttf",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Italic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Italic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Light.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Light.ttf",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Light.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Light.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-LightItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-LightItalic.ttf",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-LightItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-LightItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Medium.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Medium.ttf",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Medium.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Medium.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-MediumItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-MediumItalic.ttf",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-MediumItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-MediumItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Regular.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Regular.ttf",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Regular.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Regular.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-SemiBold.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-SemiBold.ttf",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-SemiBold.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-SemiBold.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-SemiBoldItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-Thin.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-Thin.ttf",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-Thin.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-Thin.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/fonts/Poppins-ThinItalic.ttf",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "fonts/Poppins-ThinItalic.ttf",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Poppins-ThinItalic.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/Poppins-ThinItalic.ttf"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\.DS_Store",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/.DS_Store",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
+      "OriginalItemSpec": "wwwroot/images/.DS_Store"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\about_img.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/about_img.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/about_img.jpg",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\about_img.jpg"
+      "OriginalItemSpec": "wwwroot/images/about_img.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\banner.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/banner.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/banner.jpg",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\banner.jpg"
+      "OriginalItemSpec": "wwwroot/images/banner.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\banner2.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/banner2.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/banner2.jpg",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\banner2.jpg"
+      "OriginalItemSpec": "wwwroot/images/banner2.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\bbnner.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/bbnner.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/bbnner.png",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\bbnner.png"
+      "OriginalItemSpec": "wwwroot/images/bbnner.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\footer.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/footer.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/footer.jpg",
       "AssetKind": "All",
@@ -949,30 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\footer.jpg"
+      "OriginalItemSpec": "wwwroot/images/footer.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\icon.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/icon_right.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "images/icon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icon.png"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\icon_right.png",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/icon_right.png",
       "AssetKind": "All",
@@ -983,13 +966,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icon_right.png"
+      "OriginalItemSpec": "wwwroot/images/icon_right.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\loading.gif",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/icon.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "images/icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/icon.png"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/loading.gif",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/loading.gif",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\loading.gif"
+      "OriginalItemSpec": "wwwroot/images/loading.gif"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\logo.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/logo.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+      "OriginalItemSpec": "wwwroot/images/logo.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\menu_btn.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/menu_btn.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/menu_btn.png",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\menu_btn.png"
+      "OriginalItemSpec": "wwwroot/images/menu_btn.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img1.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/mics_img1.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/mics_img1.jpg",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mics_img1.jpg"
+      "OriginalItemSpec": "wwwroot/images/mics_img1.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img2.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/mics_img2.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/mics_img2.jpg",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mics_img2.jpg"
+      "OriginalItemSpec": "wwwroot/images/mics_img2.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img3.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/mics_img3.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/mics_img3.jpg",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mics_img3.jpg"
+      "OriginalItemSpec": "wwwroot/images/mics_img3.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img4.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/mics_img4.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/mics_img4.jpg",
       "AssetKind": "All",
@@ -1102,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mics_img4.jpg"
+      "OriginalItemSpec": "wwwroot/images/mics_img4.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img5.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/mics_img5.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/mics_img5.jpg",
       "AssetKind": "All",
@@ -1119,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mics_img5.jpg"
+      "OriginalItemSpec": "wwwroot/images/mics_img5.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\mics_img6.jpg",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/mics_img6.jpg",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/mics_img6.jpg",
       "AssetKind": "All",
@@ -1136,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mics_img6.jpg"
+      "OriginalItemSpec": "wwwroot/images/mics_img6.jpg"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\right_side.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/right_side.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/right_side.png",
       "AssetKind": "All",
@@ -1153,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\right_side.png"
+      "OriginalItemSpec": "wwwroot/images/right_side.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\service1.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/service1.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/service1.png",
       "AssetKind": "All",
@@ -1170,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\service1.png"
+      "OriginalItemSpec": "wwwroot/images/service1.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\service2.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/service2.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/service2.png",
       "AssetKind": "All",
@@ -1187,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\service2.png"
+      "OriginalItemSpec": "wwwroot/images/service2.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\service3.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/service3.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/service3.png",
       "AssetKind": "All",
@@ -1204,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\service3.png"
+      "OriginalItemSpec": "wwwroot/images/service3.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\images\\test.png",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/images/test.png",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "images/test.png",
       "AssetKind": "All",
@@ -1221,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\test.png"
+      "OriginalItemSpec": "wwwroot/images/test.png"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\.DS_Store",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/.DS_Store",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/.DS_Store",
       "AssetKind": "All",
@@ -1238,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\.DS_Store"
+      "OriginalItemSpec": "wwwroot/js/.DS_Store"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.bundle.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1255,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.bundle.js.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1272,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.bundle.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1289,13 +1289,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.bundle.min.js.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -1323,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.js.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1340,13 +1340,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.js.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1357,13 +1357,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.min.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/bootstrap.min.js.map",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1374,13 +1374,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\custom.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/custom.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1391,47 +1391,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+      "OriginalItemSpec": "wwwroot/js/custom.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/jquery-3.0.0.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "js/jquery.mCustomScrollbar.concat.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\jquery.min.js",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
-      "BasePath": "_content/AspNetRehearsal",
-      "RelativePath": "js/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
-    },
-    {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\jquery-3.0.0.min.js",
-      "SourceId": "AspNetRehearsal",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/jquery-3.0.0.min.js",
       "AssetKind": "All",
@@ -1442,13 +1408,47 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery-3.0.0.min.js"
+      "OriginalItemSpec": "wwwroot/js/jquery-3.0.0.min.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\owl.carousel.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/jquery.mCustomScrollbar.concat.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "js/jquery.mCustomScrollbar.concat.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/jquery.min.js",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
+      "BasePath": "_content/AspNetRehearsal",
+      "RelativePath": "js/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/jquery.min.js"
+    },
+    {
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/owl.carousel.js",
+      "SourceId": "AspNetRehearsal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/owl.carousel.js",
       "AssetKind": "All",
@@ -1459,13 +1459,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\owl.carousel.js"
+      "OriginalItemSpec": "wwwroot/js/owl.carousel.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/owl.carousel.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1476,13 +1476,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
+      "OriginalItemSpec": "wwwroot/js/owl.carousel.min.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\popper.min.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/popper.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1493,13 +1493,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
+      "OriginalItemSpec": "wwwroot/js/popper.min.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\scripts.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/scripts.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -1510,13 +1510,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+      "OriginalItemSpec": "wwwroot/js/scripts.js"
     },
     {
-      "Identity": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\js\\scripts.min.js",
+      "Identity": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/js/scripts.min.js",
       "SourceId": "AspNetRehearsal",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\My\\SimpleRehearsalStudio\\AspNetRehearsal\\wwwroot\\",
+      "ContentRoot": "/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/wwwroot/",
       "BasePath": "_content/AspNetRehearsal",
       "RelativePath": "js/scripts.min.js",
       "AssetKind": "All",
@@ -1527,7 +1527,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\scripts.min.js"
+      "OriginalItemSpec": "wwwroot/js/scripts.min.js"
     }
   ]
 }

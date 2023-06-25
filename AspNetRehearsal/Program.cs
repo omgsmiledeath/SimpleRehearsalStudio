@@ -8,8 +8,8 @@ var app = builder.Build();
 app.UseStaticFiles();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Studio}/{action=Index}/{id?}",
-    defaults: new {controller = "Studio" , action = "Index"});
+    pattern: "{controller=Home}/{action=Index}/{id?}",
+    defaults: new {controller = "Home" , action = "Index"});
 
 //app.MapGet("/", () => "Hello World!");
 

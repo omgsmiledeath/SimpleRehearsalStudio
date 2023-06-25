@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\AspNetRehearsal.props" />
+  <Import Project="../buildMultiTargeting/AspNetRehearsal.props" />
 </Project>

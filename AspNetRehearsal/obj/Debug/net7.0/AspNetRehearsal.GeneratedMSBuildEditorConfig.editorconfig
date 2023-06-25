@@ -9,53 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNetRehearsal
 build_property.RootNamespace = AspNetRehearsal
-build_property.ProjectDir = F:\C#\My\SimpleRehearsalStudio\AspNetRehearsal\
+build_property.ProjectDir = /Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\C#\My\SimpleRehearsalStudio\AspNetRehearsal
+build_property.MSBuildProjectDirectory = /Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/CssPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENzc1BhcnRpYWwuY3NodG1s
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/FooterPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlclBhcnRpYWwuY3NodG1s
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/CssPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Nzc1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/HeaderPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlclBhcnRpYWwuY3NodG1s
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Zvb3RlclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/MetatagsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1ldGF0YWdzUGFydGlhbC5jc2h0bWw=
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0hlYWRlclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/ScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/MetatagsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL01ldGF0YWdzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/ServicesPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNlcnZpY2VzUGFydGlhbC5jc2h0bWw=
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1NjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/SliderPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNsaWRlclBhcnRpYWwuY3NodG1s
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/ServicesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1NlcnZpY2VzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/SliderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1NsaWRlclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/Studio/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGlvXEluZGV4LmNzaHRtbA==
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/Studio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGlvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/C\#/My/SimpleRehearsalStudio/AspNetRehearsal/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kseniabelaevskaa/Projects/SimpleRehearsalStudio/AspNetRehearsal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
